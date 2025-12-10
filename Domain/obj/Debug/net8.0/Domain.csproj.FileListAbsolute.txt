@@ -1,0 +1,11 @@
+C:\Users\Nastya\source\repos\TimeResourceManagementAPI\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Nastya\source\repos\TimeResourceManagementAPI\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Nastya\source\repos\TimeResourceManagementAPI\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Nastya\source\repos\TimeResourceManagementAPI\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nastya\source\repos\TimeResourceManagementAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Nastya\source\repos\TimeResourceManagementAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Nastya\source\repos\TimeResourceManagementAPI\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\source\repos\TimeResourceManagementAPI\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Nastya\source\repos\TimeResourceManagementAPI\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Nastya\source\repos\TimeResourceManagementAPI\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Nastya\source\repos\TimeResourceManagementAPI\Domain\obj\Debug\net8.0\ref\Domain.dll
